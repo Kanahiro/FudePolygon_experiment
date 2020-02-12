@@ -1,21 +1,20 @@
 {
     "tilejson": "2.0.0",
     "id": "maff_fude",
-    "name": "筆ポリゴン",
+    "name": "fude",
     "format": "pbf",
-    "maxzoom": 13,
-    "minzoom": 7,
-    "attribution": "農林水産省",
+    "maxzoom": 14,
+    "minzoom": 16,
+    "attribution": "maff",
     "description": "fude polygon experiment",
     "vector_layers": [
         {
             "id": "fude",
             "fields": {
-                "筆ポリゴン": "String",
-                "耕地の種類": "String"
+                "LC": "String"
             },
-            "maxzoom": 13,
-            "minzoom": 7,
+            "maxzoom": 14,
+            "minzoom": 16,
             "description": ""
         }
     ],
