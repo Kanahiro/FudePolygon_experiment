@@ -9,7 +9,7 @@
     "description": "fude polygon experiment",
     "vector_layers": [
         {
-            "id": "soil",
+            "id": "fude",
             "fields": {
                 "筆ポリゴン": "String",
                 "耕地の種類": "String"
