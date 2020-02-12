@@ -4,17 +4,18 @@
     "name": "fude",
     "format": "pbf",
     "maxzoom": 16,
-    "minzoom": 14,
+    "minzoom": 0,
     "attribution": "maff",
     "description": "fude polygon experiment",
     "vector_layers": [
         {
             "id": "fude",
             "fields": {
+                "FID": "String",
                 "LC": "String"
             },
             "maxzoom": 16,
-            "minzoom": 14,
+            "minzoom": 0,
             "description": ""
         }
     ],
