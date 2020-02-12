@@ -3,8 +3,8 @@
     "id": "maff_fude",
     "name": "fude",
     "format": "pbf",
-    "maxzoom": 14,
-    "minzoom": 16,
+    "maxzoom": 16,
+    "minzoom": 14,
     "attribution": "maff",
     "description": "fude polygon experiment",
     "vector_layers": [
@@ -13,8 +13,8 @@
             "fields": {
                 "LC": "String"
             },
-            "maxzoom": 14,
-            "minzoom": 16,
+            "maxzoom": 16,
+            "minzoom": 14,
             "description": ""
         }
     ],
